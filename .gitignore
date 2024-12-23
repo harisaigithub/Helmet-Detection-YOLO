@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+models/*
+data/*.mp4
+data/*.jpg

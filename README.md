@@ -78,9 +78,9 @@ You can try the live demo of this application by visiting the link below:
 
 ## Contact
 Feel free to reach out for questions, feedback, or collaboration:  
-- **GitHub:** [Your GitHub Profile](https://github.com/Hemanthtu)  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-- **Email:** [YourEmail@example.com](mailto:hemanthtulimilli.18@example.com)
+- **GitHub:** [HARISAIGITHUB](https://github.com/harisaigithub)  
+- **LinkedIn:** [LinkedIn Profile](linkedin.com/in/parasa-hari-sai)  
+- **Email:** [harisaiparasa@gmail.com](mailto:harisaiparasa@example.com)
 
 ---
 
